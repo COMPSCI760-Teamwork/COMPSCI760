@@ -1,4 +1,4 @@
-## The dataset for training
+# The dataset for training
 http://www.openslr.org/resources/18/data_thchs30.tgz 
 
 This is the *data part* of the `THCHS30 2015` acoustic data & scripts dataset.
@@ -75,7 +75,7 @@ Tsinghua University
 
 http://cslt.org
 http://cslt.riit.tsinghua.edu.cn
-## The dataset for testing 
+# The dataset for testing 
 http://openslr.magicdatatech.com/resources/38/ST-CMDS-20170001_1-OS.tar.gz 
 
 name: Free ST Chinese Mandarin Corpus
