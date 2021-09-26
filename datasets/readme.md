@@ -78,9 +78,9 @@ http://cslt.riit.tsinghua.edu.cn
 # The dataset for testing 
 http://www.openslr.org/resources/38/ST-CMDS-20170001_1-OS.tar.gz
 
-name: Free ST Chinese Mandarin Corpus
-summary: A free Chinese Mandarin corpus by Surfingtech (www.surfing.ai), containing utterances from 855 speakers, 102600 utterances; 
-category: speech
-license: Creative Common BY-NC-ND 4.0 (Attribution-NonCommercial-NoDerivatives 4.0 International)
-file: ST-CMDS-20170001_1-OS.tar.gz  speech audios and transcripts
-alternate_url: https://www.surfing.ai
+name: Free ST Chinese Mandarin Corpus  
+summary: A free Chinese Mandarin corpus by Surfingtech (www.surfing.ai), containing utterances from 855 speakers, 102600 utterances;   
+category: speech  
+license: Creative Common BY-NC-ND 4.0 (Attribution-NonCommercial-NoDerivatives 4.0 International)  
+file: ST-CMDS-20170001_1-OS.tar.gz  speech audios and transcripts  
+alternate_url: https://www.surfing.ai  
