@@ -1,4 +1,10 @@
 Baseline code was built by Python 3.9.2 in VS code  
+  
+If training, please download dataset and put them in "dataset" folder  
+The trained model251(code_name.Temperance) is in the "model_speech" folder  
+Test: use test.py, you can change the audio file path in this py  
+  
+Environment:  
 pip version is 21.2.4  
 pip list  
 Package                    Version  
